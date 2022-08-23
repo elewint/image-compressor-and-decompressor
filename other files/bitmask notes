@@ -1,0 +1,13 @@
+10010101 -word
+   110   -desired input
+11111111 -mask
+00000111 -shift right by 64-width
+00011100 -shift left by lsb
+
+10010101 -input
+11100011 -goal mask
+10000001 -desired output
+
+11100011 -goal mask
+10010101 -input word
+10011001 -desired output
