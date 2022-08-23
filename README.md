@@ -35,6 +35,8 @@ classes to either compress or decompress the given input.
 
 We believe we have implemented all features correctly.
 
+---
+
 Time spent analyzing problems posed in the assignment:
     12 hours
 
